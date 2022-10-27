@@ -60,5 +60,5 @@ class Movie:
 
 
 if __name__ == "__main__":
-    movie = Movie("Tomb raider")
-    print(get_all_movies())
+    movie = Movie("Dikkenek")
+    print(movie.add_to_movies())
